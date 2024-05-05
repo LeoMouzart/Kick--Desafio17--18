@@ -1,0 +1,29 @@
+@media screen and (max-width: 750px) {
+  .menu ul li {
+    display: block;
+    float: none;
+    position: relative;
+    background-color: #000;
+  }
+
+  .menu ul li a {
+    color: #f5f5f5;
+  }
+  .dropdown-menu a {
+    background-color: #000;
+    color: #f5f5f5;
+  }
+
+  .dropdown-menu:hover {
+    background-color: #000;
+    color: #f5f5f5;
+  }
+  header {
+    margin-bottom: 10px;
+  }
+
+  footer {
+    background-color: #000;
+    color: #f5f5f5;
+  }
+}
